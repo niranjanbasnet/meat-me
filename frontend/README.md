@@ -1,4 +1,4 @@
-# meatme
+# frontend
 
 ## Project setup
 ```

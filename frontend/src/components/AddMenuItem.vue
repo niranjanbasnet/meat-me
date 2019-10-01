@@ -54,7 +54,7 @@
            </div>
            <div class="row">
              <div>
-                Menu Item Data
+                Menu Data
                 <b-table v-if="getmenudata=true" :items="menuDataTable"></b-table>
               </div>
            </div>
@@ -62,10 +62,6 @@
       </div>
 
 
-    </div>
-    <br>
-    <div class="row">
-      <div>Order Food</div>
     </div>
   </div>
 </template>
